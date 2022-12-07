@@ -16,8 +16,8 @@
 
 ### About: 
 
-Родился где-то между 20 и 21 веками. Учился. Взрослел. Решил стать программистом. Отучился на геолога. Отработал гелогом 4-5 лет. Становлюсь программистом. 
-Начал путь с самообучения. Устроился на позицию PPC Specialist, параллельно работая с Bitrix и фронтом на бутстрапе. Ушёл на фриланс. Кип лёрнинг. Лайк ит.
+Born sometime between the 20th and 21st centuries. Studied. Grown up. Decided to become a programmer. Trained as a geologist. Worked as a geologist for 4-5 years. I become a programmer.  
+Started my journey with self-study. Got a job as a PPC Specialist, while simultaneously working with Bitrix and the frontend on the bootstrap. Went freelance. Keep learning. Like it.
 
 ********* 
 
